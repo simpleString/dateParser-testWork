@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "npx nodemon source.js",
+    "test": "npx mocha --reporter spec"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
